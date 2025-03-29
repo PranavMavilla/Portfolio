@@ -1,0 +1,12 @@
+body{
+    background: black;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    color: red;
+    font-family: "Rubik", sans-serif;
+}
+h1{
+    background: black;
+    color: white;
+}
